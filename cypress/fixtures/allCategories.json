@@ -1,0 +1,534 @@
+{
+    "success": true,
+    "categories": [
+        {
+            "_id": "6711c7f2ed52920b47845d4c",
+            "name": "Periféricos",
+            "photo": "blabla.jpg",
+            "createdAt": "2024-10-18T02:29:06.339Z",
+            "updatedAt": "2024-10-18T02:29:06.339Z",
+            "__v": 0
+        },
+        {
+            "_id": "6711c610ed52920b47845d42",
+            "name": "Teclado",
+            "photo": "www.teclado.com.br",
+            "createdAt": "2024-10-18T02:21:04.861Z",
+            "updatedAt": "2024-10-18T02:21:04.861Z",
+            "__v": 0
+        },
+        {
+            "_id": "6711b1beed52920b47845bd6",
+            "name": "Clothing",
+            "photo": "https://loremflickr.com/495/650?lock=8807831761207381",
+            "createdAt": "2024-10-18T00:54:22.162Z",
+            "updatedAt": "2024-10-18T00:54:22.162Z",
+            "__v": 0
+        },
+        {
+            "_id": "6711b0a5ed52920b47845bba",
+            "name": "Computers",
+            "photo": "https://picsum.photos/seed/OZymVQoB22/1269/904",
+            "createdAt": "2024-10-18T00:49:41.661Z",
+            "updatedAt": "2024-10-18T00:49:41.661Z",
+            "__v": 0
+        },
+        {
+            "_id": "6711b072ed52920b47845b9e",
+            "name": "Books",
+            "photo": "https://loremflickr.com/2588/3307?lock=4185503980257728",
+            "createdAt": "2024-10-18T00:48:50.735Z",
+            "updatedAt": "2024-10-18T00:48:50.735Z",
+            "__v": 0
+        },
+        {
+            "_id": "6711b051ed52920b47845b82",
+            "name": "Kids",
+            "photo": "https://picsum.photos/seed/oCCJffe/3363/3738",
+            "createdAt": "2024-10-18T00:48:17.024Z",
+            "updatedAt": "2024-10-18T00:48:17.024Z",
+            "__v": 0
+        },
+        {
+            "_id": "6711aff43498d90c04b4a2cf",
+            "name": "Tools",
+            "photo": "https://picsum.photos/seed/O8PkkXOiq/176/2526",
+            "createdAt": "2024-10-18T00:46:44.023Z",
+            "updatedAt": "2024-10-18T00:46:44.023Z",
+            "__v": 0
+        },
+        {
+            "_id": "6711af743498d90c04b4a2b3",
+            "name": "Shoes",
+            "photo": "https://loremflickr.com/1892/2876?lock=652690316192405",
+            "createdAt": "2024-10-18T00:44:36.459Z",
+            "updatedAt": "2024-10-18T00:44:36.459Z",
+            "__v": 0
+        },
+        {
+            "_id": "6711aeb73498d90c04b4a297",
+            "name": "Movies",
+            "photo": "https://loremflickr.com/3635/1168?lock=813081146239624",
+            "createdAt": "2024-10-18T00:41:27.836Z",
+            "updatedAt": "2024-10-18T00:41:27.836Z",
+            "__v": 0
+        },
+        {
+            "_id": "670bfd9fa4f058d044ed41a1",
+            "name": "Iphone 15",
+            "photo": "https://wantimport.com/wp-content/uploads/2023/11/apple_iphone_15_plus_azul_01.jpeg.webp",
+            "createdAt": "2024-10-13T17:04:31.097Z",
+            "updatedAt": "2024-10-13T17:04:31.097Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b1038d8f99250692fc887",
+            "name": "Garden",
+            "photo": "https://loremflickr.com/2940/2733?lock=2033926300533926",
+            "createdAt": "2024-10-13T00:11:36.887Z",
+            "updatedAt": "2024-10-13T00:11:36.887Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b0f70d8f99250692fc86b",
+            "name": "Home",
+            "photo": "https://loremflickr.com/3567/1855?lock=3074478344925641",
+            "createdAt": "2024-10-13T00:08:16.706Z",
+            "updatedAt": "2024-10-13T00:08:16.706Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b0edbd8f99250692fc863",
+            "name": "Garden",
+            "photo": "https://loremflickr.com/1796/1810?lock=7573235940214520",
+            "createdAt": "2024-10-13T00:05:47.151Z",
+            "updatedAt": "2024-10-13T00:05:47.151Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b0e6cd8f99250692fc85b",
+            "name": "Jewelry",
+            "photo": "https://picsum.photos/seed/RHEsyMl/1515/3646",
+            "createdAt": "2024-10-13T00:03:56.645Z",
+            "updatedAt": "2024-10-13T00:03:56.645Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b0e04d8f99250692fc853",
+            "name": "Automotive",
+            "photo": "https://picsum.photos/seed/T9yOEHA3a/3724/2788",
+            "createdAt": "2024-10-13T00:02:12.174Z",
+            "updatedAt": "2024-10-13T00:02:12.174Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b0da2d8f99250692fc84b",
+            "name": "Clothing",
+            "photo": "https://picsum.photos/seed/g97Dg9YLq/1914/555",
+            "createdAt": "2024-10-13T00:00:34.045Z",
+            "updatedAt": "2024-10-13T00:00:34.045Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b0d1dd8f99250692fc843",
+            "name": "Health",
+            "photo": "https://picsum.photos/seed/xdMWhOx5/3579/3374",
+            "createdAt": "2024-10-12T23:58:21.282Z",
+            "updatedAt": "2024-10-12T23:58:21.282Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b0c1fd8f99250692fc83b",
+            "name": "Industrial",
+            "photo": "https://picsum.photos/seed/1lig448wX/1050/494",
+            "createdAt": "2024-10-12T23:54:07.908Z",
+            "updatedAt": "2024-10-12T23:54:07.908Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b0bb4d8f99250692fc833",
+            "name": "Home",
+            "photo": "https://picsum.photos/seed/Jtyiz1F/2535/2174",
+            "createdAt": "2024-10-12T23:52:20.828Z",
+            "updatedAt": "2024-10-12T23:52:20.828Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b0b14d8f99250692fc82b",
+            "name": "Health",
+            "photo": "https://picsum.photos/seed/ZmBhR/2468/365",
+            "createdAt": "2024-10-12T23:49:40.238Z",
+            "updatedAt": "2024-10-12T23:49:40.238Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b0ac6d8f99250692fc823",
+            "name": "Garden",
+            "photo": "https://loremflickr.com/608/2992?lock=4028205038775118",
+            "createdAt": "2024-10-12T23:48:22.629Z",
+            "updatedAt": "2024-10-12T23:48:22.629Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b0a1ed8f99250692fc81b",
+            "name": "Home",
+            "photo": "https://picsum.photos/seed/dULyE9yxA2/1779/101",
+            "createdAt": "2024-10-12T23:45:34.864Z",
+            "updatedAt": "2024-10-12T23:45:34.864Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b0a0dd8f99250692fc813",
+            "name": "Automotive",
+            "photo": "https://loremflickr.com/987/62?lock=5128291617242814",
+            "createdAt": "2024-10-12T23:45:17.478Z",
+            "updatedAt": "2024-10-12T23:45:17.478Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b0923d8f99250692fc809",
+            "name": "Beauty",
+            "photo": "https://picsum.photos/seed/njshF4dBjC/3564/2949",
+            "createdAt": "2024-10-12T23:41:23.122Z",
+            "updatedAt": "2024-10-12T23:41:23.122Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b08dcd8f99250692fc801",
+            "name": "Computers",
+            "photo": "https://loremflickr.com/32/153?lock=6044070442461934",
+            "createdAt": "2024-10-12T23:40:12.175Z",
+            "updatedAt": "2024-10-12T23:40:12.175Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b088ad8f99250692fc7f9",
+            "name": "Movies",
+            "photo": "https://picsum.photos/seed/BP0RbaIWh9/865/1244",
+            "createdAt": "2024-10-12T23:38:50.359Z",
+            "updatedAt": "2024-10-12T23:38:50.359Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b07f4d8f99250692fc7f1",
+            "name": "Electronics",
+            "photo": "https://loremflickr.com/1250/2157?lock=8755033421033022",
+            "createdAt": "2024-10-12T23:36:20.412Z",
+            "updatedAt": "2024-10-12T23:36:20.412Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b079dd8f99250692fc7e9",
+            "name": "Movies",
+            "photo": "https://picsum.photos/seed/3bMQY2WeMa/843/1259",
+            "createdAt": "2024-10-12T23:34:53.862Z",
+            "updatedAt": "2024-10-12T23:34:53.862Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b06d7d8f99250692fc7e1",
+            "name": "Garden",
+            "photo": "https://picsum.photos/seed/H321N3dWLc/1421/3774",
+            "createdAt": "2024-10-12T23:31:35.814Z",
+            "updatedAt": "2024-10-12T23:31:35.814Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b0671d8f99250692fc7d9",
+            "name": "Grocery",
+            "photo": "https://loremflickr.com/3427/2520?lock=4836529847594692",
+            "createdAt": "2024-10-12T23:29:53.103Z",
+            "updatedAt": "2024-10-12T23:29:53.103Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b062ed8f99250692fc7d1",
+            "name": "Home",
+            "photo": "https://picsum.photos/seed/WjlYRFvQQC/450/3395",
+            "createdAt": "2024-10-12T23:28:46.203Z",
+            "updatedAt": "2024-10-12T23:28:46.203Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b05d1d8f99250692fc7c9",
+            "name": "Computers",
+            "photo": "https://loremflickr.com/784/2660?lock=8675435056611698",
+            "createdAt": "2024-10-12T23:27:13.464Z",
+            "updatedAt": "2024-10-12T23:27:13.464Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b05c8d8f99250692fc7c1",
+            "name": "Games",
+            "photo": "https://picsum.photos/seed/m9tShXgo0/2539/292",
+            "createdAt": "2024-10-12T23:27:04.853Z",
+            "updatedAt": "2024-10-12T23:27:04.853Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b0505d8f99250692fc7b9",
+            "name": "Shoes",
+            "photo": "https://picsum.photos/seed/VkQymKP/1937/3068",
+            "createdAt": "2024-10-12T23:23:49.069Z",
+            "updatedAt": "2024-10-12T23:23:49.069Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b0471d8f99250692fc7af",
+            "name": "Baby",
+            "photo": "https://picsum.photos/seed/ML55hiZ/2887/201",
+            "createdAt": "2024-10-12T23:21:21.729Z",
+            "updatedAt": "2024-10-12T23:21:21.729Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b0469d8f99250692fc7a7",
+            "name": "Kids",
+            "photo": "https://loremflickr.com/1638/1844?lock=3601673515946717",
+            "createdAt": "2024-10-12T23:21:13.744Z",
+            "updatedAt": "2024-10-12T23:21:13.744Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b041ad8f99250692fc79f",
+            "name": "Clothing",
+            "photo": "https://picsum.photos/seed/UdGW1HIYc/982/891",
+            "createdAt": "2024-10-12T23:19:54.108Z",
+            "updatedAt": "2024-10-12T23:19:54.108Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b0301d8f99250692fc795",
+            "name": "Movies",
+            "photo": "https://picsum.photos/seed/uw7LuC/403/2079",
+            "createdAt": "2024-10-12T23:15:13.235Z",
+            "updatedAt": "2024-10-12T23:15:13.235Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b02ded8f99250692fc78d",
+            "name": "Garden",
+            "photo": "https://loremflickr.com/103/152?lock=60067846697428",
+            "createdAt": "2024-10-12T23:14:38.167Z",
+            "updatedAt": "2024-10-12T23:14:38.167Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b0176d8f99250692fc785",
+            "name": "Games",
+            "photo": "https://picsum.photos/seed/VpajX/357/2753",
+            "createdAt": "2024-10-12T23:08:38.354Z",
+            "updatedAt": "2024-10-12T23:08:38.354Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b0138d8f99250692fc77d",
+            "name": "Shoes",
+            "photo": "https://loremflickr.com/3710/3682?lock=5155667962787996",
+            "createdAt": "2024-10-12T23:07:36.504Z",
+            "updatedAt": "2024-10-12T23:07:36.504Z",
+            "__v": 0
+        },
+        {
+            "_id": "670b00e0d8f99250692fc775",
+            "name": "Sports",
+            "photo": "https://loremflickr.com/3942/761?lock=4197465089512684",
+            "createdAt": "2024-10-12T23:06:08.681Z",
+            "updatedAt": "2024-10-12T23:06:08.681Z",
+            "__v": 0
+        },
+        {
+            "_id": "670aff95d8f99250692fc76d",
+            "name": "Grocery",
+            "photo": "https://picsum.photos/seed/hPA6O/2747/2398",
+            "createdAt": "2024-10-12T23:00:37.144Z",
+            "updatedAt": "2024-10-12T23:00:37.144Z",
+            "__v": 0
+        },
+        {
+            "_id": "670aff4dd8f99250692fc769",
+            "name": "Industrial",
+            "photo": "https://picsum.photos/seed/ud0MCWd/116/4",
+            "createdAt": "2024-10-12T22:59:25.023Z",
+            "updatedAt": "2024-10-12T22:59:25.023Z",
+            "__v": 0
+        },
+        {
+            "_id": "670afec5d8f99250692fc751",
+            "name": "Clothing",
+            "photo": "https://loremflickr.com/2589/2618?lock=7646201136091442",
+            "createdAt": "2024-10-12T22:57:09.419Z",
+            "updatedAt": "2024-10-12T22:57:09.419Z",
+            "__v": 0
+        },
+        {
+            "_id": "670afd48d8f99250692fc71b",
+            "name": "Health",
+            "photo": "https://loremflickr.com/537/3493?lock=993025099031627",
+            "createdAt": "2024-10-12T22:50:48.007Z",
+            "updatedAt": "2024-10-12T22:50:48.050Z",
+            "__v": 0
+        },
+        {
+            "_id": "670adc585cdcca8e6c0f9f1f",
+            "name": "Home",
+            "photo": "https://picsum.photos/seed/lxQo4anJ/1673/3292",
+            "createdAt": "2024-10-12T20:30:16.843Z",
+            "updatedAt": "2024-10-12T20:30:16.843Z",
+            "__v": 0
+        },
+        {
+            "_id": "670adc3a5cdcca8e6c0f9f19",
+            "name": "Games",
+            "photo": "https://loremflickr.com/1653/3906?lock=8925195695930726",
+            "createdAt": "2024-10-12T20:29:46.447Z",
+            "updatedAt": "2024-10-12T20:29:46.447Z",
+            "__v": 0
+        },
+        {
+            "_id": "670adc1c5cdcca8e6c0f9f13",
+            "name": "Baby",
+            "photo": "https://loremflickr.com/2914/193?lock=866953254479254",
+            "createdAt": "2024-10-12T20:29:16.290Z",
+            "updatedAt": "2024-10-12T20:29:16.290Z",
+            "__v": 0
+        },
+        {
+            "_id": "670adbf75cdcca8e6c0f9f0d",
+            "name": "Garden",
+            "photo": "https://picsum.photos/seed/hId93aE/247/308",
+            "createdAt": "2024-10-12T20:28:39.776Z",
+            "updatedAt": "2024-10-12T20:28:39.776Z",
+            "__v": 0
+        },
+        {
+            "_id": "670adbce5cdcca8e6c0f9f07",
+            "name": "Computers",
+            "photo": "https://picsum.photos/seed/tqRKjdflA/1716/78",
+            "createdAt": "2024-10-12T20:27:58.535Z",
+            "updatedAt": "2024-10-12T20:27:58.535Z",
+            "__v": 0
+        },
+        {
+            "_id": "670ada915cdcca8e6c0f9f01",
+            "name": "Health",
+            "photo": "https://picsum.photos/seed/WTmRD/2689/532",
+            "createdAt": "2024-10-12T20:22:41.081Z",
+            "updatedAt": "2024-10-12T20:22:41.081Z",
+            "__v": 0
+        },
+        {
+            "_id": "670ada4e993d04567d70185d",
+            "name": "Beauty",
+            "photo": "https://loremflickr.com/2046/1675?lock=4987421933745828",
+            "createdAt": "2024-10-12T20:21:34.026Z",
+            "updatedAt": "2024-10-12T20:21:34.026Z",
+            "__v": 0
+        },
+        {
+            "_id": "670ada366f553e4f0d4031e4",
+            "name": "Jewelry",
+            "photo": "https://picsum.photos/seed/Yj5H1U/3309/675",
+            "createdAt": "2024-10-12T20:21:10.616Z",
+            "updatedAt": "2024-10-12T20:21:10.616Z",
+            "__v": 0
+        },
+        {
+            "_id": "670ada076e4cc8e700648f55",
+            "name": "Outdoors",
+            "photo": "https://picsum.photos/seed/W6oDZI/1983/303",
+            "createdAt": "2024-10-12T20:20:23.150Z",
+            "updatedAt": "2024-10-12T20:20:23.150Z",
+            "__v": 0
+        },
+        {
+            "_id": "670ad87ad95f64dabba997f3",
+            "name": "Automotive",
+            "photo": "https://picsum.photos/seed/9sejbu2d9/33/3941",
+            "createdAt": "2024-10-12T20:13:46.093Z",
+            "updatedAt": "2024-10-12T20:13:46.093Z",
+            "__v": 0
+        },
+        {
+            "_id": "670ad86b24b94bcb70b7cd7a",
+            "name": "Books",
+            "photo": "https://picsum.photos/seed/7DMJg/2458/2940",
+            "createdAt": "2024-10-12T20:13:31.435Z",
+            "updatedAt": "2024-10-12T20:13:31.435Z",
+            "__v": 0
+        },
+        {
+            "_id": "670ad7f924b94bcb70b7cd74",
+            "name": "asdasdsadasd",
+            "photo": "anasdasdasdsadsadsady",
+            "createdAt": "2024-10-12T20:11:37.062Z",
+            "updatedAt": "2024-10-12T20:11:37.062Z",
+            "__v": 0
+        },
+        {
+            "_id": "670ad723a4992976839f52ed",
+            "name": "Sports",
+            "photo": "https://picsum.photos/seed/BdEgK31Js/1895/717",
+            "createdAt": "2024-10-12T20:08:03.807Z",
+            "updatedAt": "2024-10-12T20:08:03.807Z",
+            "__v": 0
+        },
+        {
+            "_id": "670ad6980794e7ed421cbaf4",
+            "name": "Sports",
+            "photo": "https://picsum.photos/seed/rMaFG/2364/394",
+            "createdAt": "2024-10-12T20:05:44.320Z",
+            "updatedAt": "2024-10-12T20:05:44.320Z",
+            "__v": 0
+        },
+        {
+            "_id": "670ad688e96a9751ed025c77",
+            "name": "Health",
+            "photo": "https://picsum.photos/seed/itpjPj/362/3560",
+            "createdAt": "2024-10-12T20:05:28.959Z",
+            "updatedAt": "2024-10-12T20:05:28.959Z",
+            "__v": 0
+        },
+        {
+            "_id": "670ad5a7be3c824e120cf49f",
+            "name": "Home",
+            "photo": "https://loremflickr.com/3339/2782?lock=4928192901321159",
+            "createdAt": "2024-10-12T20:01:43.716Z",
+            "updatedAt": "2024-10-12T20:01:43.716Z",
+            "__v": 0
+        },
+        {
+            "_id": "670ad51f516a8d1d2b3c6f2f",
+            "name": "Games",
+            "photo": "https://picsum.photos/seed/7npKbZ3ks/897/1312",
+            "createdAt": "2024-10-12T19:59:27.176Z",
+            "updatedAt": "2024-10-12T19:59:27.176Z",
+            "__v": 0
+        },
+        {
+            "_id": "670ad4e96c0cd67793bfafd1",
+            "name": "Computers",
+            "photo": "https://loremflickr.com/3966/294?lock=5670277956903614",
+            "createdAt": "2024-10-12T19:58:33.226Z",
+            "updatedAt": "2024-10-12T19:58:33.226Z",
+            "__v": 0
+        },
+        {
+            "_id": "670ad3ac35935ed5fd4f0f0f",
+            "name": "Electronics",
+            "photo": "https://picsum.photos/seed/tLqti/2403/1576",
+            "createdAt": "2024-10-12T19:53:16.885Z",
+            "updatedAt": "2024-10-12T19:53:16.885Z",
+            "__v": 0
+        },
+        {
+            "_id": "670ad39c6b8b9a9c2f8cb098",
+            "name": "Automotive",
+            "photo": "https://picsum.photos/seed/RkTGgC3sFh/322/3106",
+            "createdAt": "2024-10-12T19:53:00.285Z",
+            "updatedAt": "2024-10-12T19:53:00.285Z",
+            "__v": 0
+        }
+    ],
+    "totalCategory": 66
+}
